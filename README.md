@@ -5,3 +5,6 @@ https://ghusoon.github.io/Trivia-Game/
 
 
 ![screenshot 53](https://user-images.githubusercontent.com/34943428/44622675-65677680-a88b-11e8-9f97-5f44930e3b69.png)
+
+![screenshot 54](https://user-images.githubusercontent.com/34943428/44622682-84660880-a88b-11e8-8003-f3613b15c6aa.png)
+
