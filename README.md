@@ -8,3 +8,6 @@ https://ghusoon.github.io/Trivia-Game/
 
 ![screenshot 54](https://user-images.githubusercontent.com/34943428/44622682-84660880-a88b-11e8-8003-f3613b15c6aa.png)
 
+![screenshot 58](https://user-images.githubusercontent.com/34943428/44622687-9c3d8c80-a88b-11e8-81f8-1a2acbbf3f3e.png)
+
+
